@@ -1,2 +1,9 @@
-# SQL-Automated-Data-Cleaning
-SQL-Automated-Data-Cleaning-US-Income-Data
+# SQL Project: Automated Data Cleaning
+
+![Header](Images/header.png)
+
+### US Income Data Cleaning and Exploratory Analysis
+
+#### by Alex Melino
+
+#
